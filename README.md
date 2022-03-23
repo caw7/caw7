@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @caw7, but you can call me caw.
+- 👋 Hi, I’m @caw7
 - 👀 I’m interested in application and games development as well as many, many other things.
-- 🌱 I’m currently learning Python3, Javascript, and AWS services (the free ones, heh).
+- 🌱 I’m currently learning Python3, Java, and AWS services (the free ones, heh).
 - 💞️ I’m looking to collaborate on any quality of life improvement applications that are open source. Or online games projects. That would be fun.
 - 📫 How to reach me: <secure URL intro>.linkedin.<cam with an o>/in/cameron-caw7/
 
